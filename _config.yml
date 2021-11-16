@@ -108,12 +108,12 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "https://www.notion.so/watch-2c45645eea2b46c5b8d89369e15b4e85"
+    - label: "최근 프로젝트"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      # url: "https://github.com/lalau9/"
+    - label: "notion"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://www.notion.so/watch-2c45645eea2b46c5b8d89369e15b4e85"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
