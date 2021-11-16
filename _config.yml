@@ -102,13 +102,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "lala"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "infinite possibilities."
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "https://www.notion.so/watch-2c45645eea2b46c5b8d89369e15b4e85"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
