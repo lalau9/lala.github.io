@@ -110,22 +110,16 @@ author:
   links:
     - label: "최근 프로젝트"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "https://github.com/lalau9/"
+      url: "https://github.com/lalau9/"
     - label: "notion"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.notion.so/watch-2c45645eea2b46c5b8d89369e15b4e85"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.notion.so/watch-2c45645eea2b46c5b8d89369e15b4e85"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
